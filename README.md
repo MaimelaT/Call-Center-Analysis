@@ -59,12 +59,12 @@ After cleaning and organizing the dataset, I uploaded it on Tableau:
 - The csat_score column has many empty cells and therefore won’t be used in this analysis.
 
 
-a)	Determined the number of calls the call center received each day.
+**a)	Determined the number of calls the call center received each day.**
 
 ![image](https://github.com/MaimelaT/Call-Center-Analysis/assets/139053059/516df7bd-a045-4c75-81f8-17dad0708745)
 
 
-b)	I checked the most used channel of communication using Google sheets graph to create a pie chart.
+**b)	I checked the most used channel of communication using Google sheets graph to create a pie chart.**
 
 ![image](https://github.com/MaimelaT/Call-Center-Analysis/assets/139053059/41aee828-5b8e-47da-83b8-43192b828ef3)
 
@@ -75,7 +75,7 @@ The results showed that the most used channel of communication is the Call-cente
 •	We need to find out why it has the least number of interaction and how we can improve it?
 
 
-c)	I used the MS excel to create a Map chart to identify where most user interaction is located.
+**c)	I used the MS excel to create a Map chart to identify where most user interaction is located.**
 
 ![image](https://github.com/MaimelaT/Call-Center-Analysis/assets/139053059/8ee3477a-15e1-4786-846b-21ef59c20504)
 
@@ -90,7 +90,7 @@ Wyoming has the least number of users’ interaction.
 •	Find out if least calls mean that they are happy and have nothing to complain about.
 
 
-d)	A Column chart to find out the most reasons why users call in.
+**d)	A Column chart to find out the most reasons why users call in.**
 
 ![image](https://github.com/MaimelaT/Call-Center-Analysis/assets/139053059/5ffab6ed-2b85-4ce9-9a9d-c287b6913a55)
 
@@ -99,7 +99,7 @@ From the results, most users call in with Billing questions
 •	The answer will lead to understanding which method of payment is more effective and which one is problematic and then improve it.
 
 
-e)	I used Google sheets to create a Bar chart to depict the time that the center receives most calls or interaction.
+**e)	I used Google sheets to create a Bar chart to depict the time that the center receives most calls or interaction.**
 
 ![image](https://github.com/MaimelaT/Call-Center-Analysis/assets/139053059/dac81833-3bb2-46bb-aca8-8e71d9bf806c)
 
