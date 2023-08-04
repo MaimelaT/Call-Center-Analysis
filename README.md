@@ -26,7 +26,7 @@ Stakeholders asked for recommendations from insights gained when analyzing custo
 Understanding the Key Performance Indicators (KPi)'s 
 
 
-## 2. Prepare
+## 2. 💻 Prepare
 + Dataset used is from the Data World website in the "Real World Fake Data" directory.
 
 + Found in Kaggle
@@ -34,7 +34,7 @@ Understanding the Key Performance Indicators (KPi)'s
 + Data include information about Customer name, call day, response time, call duration, reason, city and state. e.t.c
 
 
-## 3. Process
+## 3. 🛠 Process
 
 I used Google Sheets to clean my data. 
 * I changed the Call_timestamp column data type from “General” to “Date”.
@@ -47,7 +47,7 @@ I used Google Sheets to clean my data.
 * The call_timestamp column shows that the data is dated 2020 and in October. Therefore, I extracted the “day” to a new column and named it “Call_days” and also formatted it as a “Number” data type because it is already known that the dataset is from 2020 October.
 * I used the MID function to extract the number of days and the used the SUBSTITUTE Function to remove the “/” in my data. I also ensured there are no empty cells in my data.
 
-## 4. Tableau
+## 4. 📊 Tableau
 
 After cleaning and organizing the dataset, I uploaded it on Tableau:
 
@@ -114,7 +114,7 @@ From the results, users mostly call within SLA time frame.
 ![image](https://github.com/MaimelaT/Call-Center-Analysis/assets/139053059/849eff91-f3a2-4e1f-b686-977199ae0ff3)
 
 
-## 6. Conclusion
+## 6. 📋 Conclusion
 
 * California and Texas have the highest number of customer interaction.
 * Customers prefer the Call center followed by the Chat box as the channel of communication.
@@ -123,7 +123,7 @@ From the results, users mostly call within SLA time frame.
 * Most users have **Billing Question** at the top of their list.
 
 
-## Recommendations
+## 🧗‍♀️ Recommendations
 
 * Have more Call agents available at around
 * Doing a Lean Engineering principle called line balancing, the call center can take 1/3rd of call agents working at Above SLA timeframe and place them on the "Withing SLA" time frame.
