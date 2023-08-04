@@ -34,12 +34,17 @@ Understanding the Key Performance Indicators (KPi)'s
 
 ## Process
 
-For data cleaning, Google sheets and SQL were used to ensure the integrity and cleanliness of the data.
 I used Google Sheets to clean my data. 
 * I changed the Call_timestamp column data type from “General” to “Date”.
 * I also changed the “call duration in minutes” and “csat_score” columns from “General” to “Number” data types.
 **The picture below shows how data looked like after converting to number type.**
-      ![image](https://github.com/MaimelaT/Call-Center-Analysis/assets/139053059/087aad86-b940-46f8-bf4e-001c766ed9ff)
+  
+![image](https://github.com/MaimelaT/Call-Center-Analysis/assets/139053059/087aad86-b940-46f8-bf4e-001c766ed9ff)
+  
+* I therefore converted the dataset to zero decimal place. 
+* The call_timestamp column shows that the data is dated 2020 and in October. Therefore, I extracted the “day” to a new column and named it “Call_days” and also formatted it as a “Number” data type because it is already known that the dataset is from 2020 October.
+* I used the MID function to extract the number of days and the used the SUBSTITUTE Function to remove the “/” in my data. I also ensured there are no empty cells in my data.
+
 
 
 
