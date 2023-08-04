@@ -22,5 +22,15 @@ Stakeholders asked for recommendations from insights gained when analyzing custo
 
 Understanding the Key Performance Indicators (KPi)'s 
 
+
 ## 2. Prepare
-+ Dataset used is from the Data World website in the Real World Fake Data 
++ Dataset used is from the Data World website in the "Real World Fake Data" directory.
+  
++ Found in Kaggle
+  
++ Data include information about Customer name, call day, response time, call duration, reason, city and state. e.t.c
+
+
+
+
+
