@@ -127,3 +127,7 @@ From the results, users mostly call within SLA time frame.
 * Doing a Lean Engineering principle called line balancing, the call center can take 1/3rd of call agents working at Above SLA timeframe and place them on the "Withing SLA" time frame.
       * This way the call centre wont have to spend more money hiring agents but all shift them around according to Customer retention.
   * Find out exactly what the issue is around the **Billing question** and then implement solutions.
+  * Find out which method of billing do customers prefer.
+  * Imorove the design of the website to be more user-friendly.
+ 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
