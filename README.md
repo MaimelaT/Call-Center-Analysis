@@ -21,3 +21,6 @@ Stakeholders asked for recommendations from insights gained when analyzing custo
 💡 **Business Task: Analyze customer interaction to gain insight into what customers issues are and how to improve the service**  
 
 Understanding the Key Performance Indicators (KPi)'s 
+
+## 2. Prepare
++ Dataset used is from the Data World website in the Real World Fake Data 
