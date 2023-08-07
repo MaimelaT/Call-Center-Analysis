@@ -27,7 +27,7 @@ Understanding the Key Performance Indicators (KPi)'s
 
 
 ## 2. 💻 Prepare
-+ Dataset used is from the Data World website in the "Real World Fake Data" directory.
++ Dataset used is from the Data World website in the "Real World Data" directory.
 
 + Found in Kaggle
   
